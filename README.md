@@ -1,4 +1,4 @@
-<h1 align="center">Martin Timothy Timko</h1>
+<h1 align="center">Ing. Martin Timothy Timko</h1>
 
 - 🌱 I am a freelance programmer.
 
